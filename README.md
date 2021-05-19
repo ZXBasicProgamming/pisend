@@ -1,4 +1,4 @@
-# pisend
+# pisend 2.40 for core 3.01.10
 pisend betas
 
 I would highly recommend you test out 2mb, run the test2mb.bas and this will temporarily set your pi0 to 2,000,000. If you have any issues you can power cycle the Next to get back to 115,200. When you are happy you can use pisend to permanently set the higher speed. 
