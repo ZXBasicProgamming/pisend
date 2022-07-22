@@ -1,8 +1,8 @@
 
-07/05/2002 pisend v2.20    Raindbow Player (i2s.bin) v1.1 
+Copy the files to your SD card 
 
-This is just an update for the visualizer , Raindbow Player 
-
+When you lauch a SID, MOD, XM, SNDH, MP3 file from the browser it will be played back on the pi0
+and start Rainbow Player 
 
 includes some updated handlers for mod/xm, sid, sndh, tzx 
 
